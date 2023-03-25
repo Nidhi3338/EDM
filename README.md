@@ -54,4 +54,11 @@ among the alternatives after the first year
 2. convert meter to KM = small to big (always divide by 1000)
 
 
+## week 2 
+1. principle amount  x  intrest rate x year  = accured intrest 
+2. simple intrest / compound intrest will add every year by ( change in priciple amount x added intreset )
+3. Fn =p(1+ i n) = future value 
+4. Fn = Fn-1 (1+i) = Fn-1 is priciple change 
+5. F= p(f/p i %,n)
+6. P= F(P/F i %,n)
 
